@@ -25,11 +25,11 @@
 
 
 **本文已被翻译成以下语言：**
-- [__**English**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/ENG/readme.md)
-- [__**Russian**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/RUS/readme.md)
-- [__**Ukrainian**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/UKR/readme.md)
-- [__**German**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/GER/readme.md)
-- [__**Polish**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/POL/readme.md)
-- [__**French**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/FRE/readme.md)
-- [__**Italian**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/ITA/readme.md)
-- [__**Japanese**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/JAP/readme.md)
+- [__**English**__]()
+- [__**Russian**__]()
+- [__**Ukrainian**__]()
+- [__**German**__]()
+- [__**Polish**__]()
+- [__**French**__]()
+- [__**Italian**__]()
+- [__**Japanese**__]()

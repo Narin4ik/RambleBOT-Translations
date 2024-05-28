@@ -1,5 +1,11 @@
 ger:
 	setupbot:
+		setupprogress:
+			title: 'Einrichtung im Gange...'
+			desc: 'Lehnen Sie sich in Ihrem Stuhl zurück und warten Sie, bis die Einstellung abgeschlossen ist...'
+		suc:
+			desc 'Sie haben den Bot erfolgreich konfiguriert!'
+			suctxt: 'Erfolgreich!'
 		noperm:
 			title: 'Nicht genug Rechte'
 			desc: 'Sie haben nicht genügend Rechte, um diesen Befehl zu verwenden.

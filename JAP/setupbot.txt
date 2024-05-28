@@ -1,5 +1,11 @@
 jap:
 	setupbot:
+		setupprogress:
+			title: 'セットアップ中...'
+			desc: '椅子にもたれて、セッティングが完了するのを待つ......。'
+		suc:
+			desc 'ボットの設定が完了しました！'
+			suctxt: '成功しました！'
 		noperm:
 			title: '権利が足りない'
 			desc: 'このコマンドを使用するには十分な権限がありません。

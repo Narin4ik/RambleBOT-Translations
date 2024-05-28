@@ -1,5 +1,11 @@
 pol:
 	setupbot:
+		setupprogress:
+			title: 'Konfiguracja w toku...'
+			desc: 'Rozsiądź się wygodnie w fotelu i poczekaj na zakończenie ustawiania...'
+		suc:
+			desc 'Konfiguracja bota zakończyła się powodzeniem!'
+			suctxt: 'Udało się!'
 		noperm:
 			title: 'Za mało praw'
 			desc: 'Nie masz wystarczających uprawnień, aby użyć tego polecenia.

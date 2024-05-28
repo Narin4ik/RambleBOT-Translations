@@ -1,5 +1,11 @@
 eng:
 	setupbot:
+		setupprogress:
+			title: 'Setup in progress...'
+			desc: 'Lean back in your chair and wait for the setting to complete...'
+		suc:
+			desc: 'You have successfully configured the bot!'
+			suctxt: 'Successful!'
 		noperm:
 			title: 'Not enough rights'
 			desc: 'You do not have sufficient rights to use this command.

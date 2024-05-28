@@ -25,11 +25,3 @@ Stiamo cercando attivamente traduttori per le lingue giuste come:
                                                   
                                                   
 **Questo articolo è stato tradotto in queste lingue:**
-- [__**English**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/ENG/readme.md)
-- [__**Russian**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/RUS/readme.md)
-- [__**Ukrainian**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/UKR/readme.md)
-- [__**German**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/GER/readme.md)
-- [__**Polish**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/POL/readme.md)
-- [__**French**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/FRE/readme.md)
-- [__**Chinese (Simplified)**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/CHN/readme.md)
-- [__**Japanese**__](https://github.com/YT-Narin/RambleBOT-Translations/blob/main/JAP/readme.md)

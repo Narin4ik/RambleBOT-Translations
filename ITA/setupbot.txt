@@ -1,5 +1,11 @@
 ita:
 	setupbot:
+		setupprogress:
+			title: 'Installation en cours...'
+			desc: 'Installez-vous confortablement dans votre fauteuil et attendez que le réglage soit terminé...'
+		suc:
+			desc 'Il bot è stato configurato con successo!'
+			suctxt: 'Successo!'
 		noperm:
 			title: 'Non ci sono abbastanza diritti'
 			desc: 'Non si dispone di diritti sufficienti per utilizzare questo comando.

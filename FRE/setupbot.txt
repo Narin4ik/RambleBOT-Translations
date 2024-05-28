@@ -1,5 +1,11 @@
 fre:
 	setupbot:
+		setupprogress:
+			title: 'Installation en cours...'
+			desc: 'Installez-vous confortablement dans votre fauteuil et attendez que le réglage soit terminé...'
+		suc:
+			desc 'Vous avez configuré le robot avec succès !'
+			suctxt: 'Succès !'
 		noperm:
 			title: 'Pas assez de droits'
 			desc: 'Vous n'avez pas les droits suffisants pour utiliser cette commande.

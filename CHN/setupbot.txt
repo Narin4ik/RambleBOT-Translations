@@ -1,5 +1,11 @@
 chn:
 	setupbot:
+		setupprogress:
+			title: '设置中...'
+			desc: '靠在椅子上，等待设置完成...'
+		suc:
+			desc '您已成功配置机器人！'
+			suctxt: '成功！'
 		noperm:
 			title: '权利不够'
 			desc: '您没有足够的权限使用此命令。
