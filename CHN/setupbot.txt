@@ -1,0 +1,7 @@
+chn:
+	setupbot:
+		noperm:
+			title: '权利不够'
+			desc: '您没有足够的权限使用此命令。
+您必须是**服务器所有者**。'
+			field: '错误'

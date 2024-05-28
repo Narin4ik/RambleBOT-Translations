@@ -1,0 +1,7 @@
+ita:
+	setupbot:
+		noperm:
+			title: 'Non ci sono abbastanza diritti'
+			desc: 'Non si dispone di diritti sufficienti per utilizzare questo comando.
+È necessario essere il **proprietario del server**.'
+			field: 'Errore'

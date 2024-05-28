@@ -1,0 +1,7 @@
+fre:
+	setupbot:
+		noperm:
+			title: 'Pas assez de droits'
+			desc: 'Vous n'avez pas les droits suffisants pour utiliser cette commande.
+Vous devez être le **Propriétaire du serveur**.'
+			field: 'Erreur'

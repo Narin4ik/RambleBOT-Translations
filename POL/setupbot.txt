@@ -1,0 +1,7 @@
+pol:
+	setupbot:
+		noperm:
+			title: 'Za mało praw'
+			desc: 'Nie masz wystarczających uprawnień, aby użyć tego polecenia.
+Musisz być **Właścicielem Serwera**.'
+			field: 'Błąd'

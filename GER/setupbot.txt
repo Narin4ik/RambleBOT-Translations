@@ -1,0 +1,7 @@
+ger:
+	setupbot:
+		noperm:
+			title: 'Nicht genug Rechte'
+			desc: 'Sie haben nicht genügend Rechte, um diesen Befehl zu verwenden.
+Sie müssen der **Servereigentümer** sein.'
+			field: 'Fehler'
