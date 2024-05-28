@@ -26,7 +26,6 @@ We are actively seeking translators for the right languages such as:
                                                   
                                                   
 **This article has been translated into these languages:**                                                  
-- [__**English**__]()
 - [__**Russian**__]()
 - [__**Ukrainian**__]()
 - [__**German**__]()
